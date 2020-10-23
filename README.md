@@ -20,5 +20,5 @@
 - 14:15-15:15　[マルチオミックス解析（DBKERO）](02_suzuki)
 ……鈴木穣（東京大学大学院）
 
-- 15：30-16:30　[PubCaseFinder](02_suzuki)
+- 15：30-16:30　[PubCaseFinder](03_fujiwara)
 ……藤原豊史（DBCLS）
