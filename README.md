@@ -20,5 +20,5 @@
 - 14:45-15:45　[マルチオミックス解析（DBKERO）](02_suzuki)
 ……鈴木穣（東京大学大学院）
 
-- 16:00-17:00　[PubCaseFinder](03_fujiwara)
+- 16:00-17:00　[疾患・表現型解析（PubCaseFinder、HPO、NANDOなど）](03_fujiwara)
 ……藤原豊史（DBCLS）
