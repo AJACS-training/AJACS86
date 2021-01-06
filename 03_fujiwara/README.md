@@ -44,7 +44,7 @@
 ### 3. オントロジーでデータベースを統合する
 #### a. Human Phenotype Ontology（HPO）で情報統合
 - [HPO](https://hpo.jax.org/app/)
-  - [HPOとは（主治医向け）(http://www2.hosp.med.tottori-u.ac.jp/departments/medical/gene-diagnosis/irud/25231.html)]
+  - [HPOとは（主治医向け）](http://www2.hosp.med.tottori-u.ac.jp/departments/medical/gene-diagnosis/irud/25231.html)
 #### b. Nanbyo Disease Ontology（NANDO）で情報統合
 - NANDO（[GitHub](https://github.com/aidrd/nando) | [BioPortal](http://bioportal.bioontology.org/ontologies/NANDO)）
   - [オントロジーを用いた希少・遺伝性疾患診断支援 人工知能学会誌 Vol.35 No.4 2020/7](https://www.ai-gakkai.or.jp/vol35_no4/)
