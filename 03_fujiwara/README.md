@@ -24,6 +24,7 @@
 #### a. 疾患検索
 - [PubCaseFinder](https://pubcasefinder.dbcls.jp)
   - [TogoTV](https://togotv.dbcls.jp/20181201.html)
+  - [鎖骨頭蓋形成不全症（Orphanet Japan）](https://www.orpha.net/data/patho/Pro/other/Sakotsuzugaikeiseifuzensho_JP_ja_PRO_ORPHA1452.pdf)
 - [Phenomizer](http://compbio.charite.de/phenomizer/)
 - [LIRICAL](https://lirical.readthedocs.io/en/latest/)
 - [Syndrome Finder](http://syndromefinder.ncchd.go.jp)
